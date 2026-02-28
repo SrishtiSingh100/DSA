@@ -1,18 +1,19 @@
-Data Structures & Algorithms Practice
+# 📘 Data Structures & Algorithms Practice
 
-This repository contains my practice solutions for Data Structures and Algorithms (DSA) problems.
+This repository contains my practice solutions for Data Structures and Algorithms (DSA).
 
-The goal of this repository is to:
+## 🚀 Purpose
 
-Strengthen problem-solving skills
+- Improve problem-solving skills  
+- Strengthen DSA concepts  
+- Prepare for coding interviews  
+- Maintain consistency in practice  
 
-Improve coding efficiency
+---
 
-Prepare for technical interviews
+## 🛠 Language Used
 
-Build consistency in DSA practice
+- C++
 
-🚀 Languages Used
-
-C++
+---
 
