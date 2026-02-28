@@ -1,4 +1,4 @@
-#Data Structures & Algorithms Practice
+Data Structures & Algorithms Practice
 
 This repository contains my practice solutions for Data Structures and Algorithms (DSA) problems.
 
